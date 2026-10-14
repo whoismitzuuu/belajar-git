@@ -6,3 +6,4 @@ mitzuuu
 akunfiobelajar@gmail.com
 mitzu suka taro
 bojo ne oline
+Saya menambahkan dari vs code cooo
