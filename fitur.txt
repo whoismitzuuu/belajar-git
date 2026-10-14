@@ -1,0 +1,2 @@
+Dark Mode Toggle (Mode Gelap) 
+Tombol sederhana untuk mengubah tema visual menhadi gelap. Fitur ini sangat disukai pengguna karena menghemat baterai ponsel dan mengurangi ketegangan pada mata.
